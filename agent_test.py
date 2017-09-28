@@ -15,6 +15,7 @@ import sys
 import isolation
 import game_agent
 
+
 from collections import Counter
 from copy import deepcopy
 from copy import copy
